@@ -1,3 +1,4 @@
+// Return the sum of array elements 
 function sumOfArray(arr) {
   let sum = 0;
   arr.forEach((v) =>{

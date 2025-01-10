@@ -1,3 +1,4 @@
+// In this function we return the number of vowels in a given string 
 function vowelCount(str){
     const vowels = 'aeiou'
     let count = 0
